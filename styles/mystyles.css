@@ -1,0 +1,28 @@
+h1{
+    color:aquamarine
+}
+
+h2{
+    color:blanchedalmond
+}
+h3{
+    background-color:rgb(211, 246, 223)
+}
+
+.subheading {
+    color:azure
+}
+
+li{
+    font-weight: bold;
+
+}
+
+main{ 
+    background-color: gray;
+}
+
+.footer1{
+    text-align: center;
+    background-color: bisque;
+}
